@@ -1,0 +1,10 @@
+Selected list of prompts for bots:
+
+Prompt 1:
+
+After mistakenly open a spam email, Emily contracted a virus on her computer. The virus is an icon with an embedded program. The program takes 2ms to execute,
+from that point on it creates an icon that it saves on the desktop every 1ms. At the same time, after 2ms, the program copies itself (slightly modified) and runs.
+Assuming the virus is the icon autoreproducing itself every 1ms after 2ms, can you find a function in python to calculate the number of icons on the desktop after t ms?
+
+- This a problem I made for a test in a math class.
+- The bot will be trained successively to arrive at the right answer
